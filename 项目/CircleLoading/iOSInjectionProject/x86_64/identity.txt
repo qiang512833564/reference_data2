@@ -1,0 +1,2 @@
+/Users/lizhongqiang/Library/Developer/Xcode/DerivedData/CircleLoading-bncrteuanxvzdvbhlaxkonhadtng/Build/Products/Debug-iphonesimulator/CircleLoading.app
+
